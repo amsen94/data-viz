@@ -1,5 +1,5 @@
 # data-viz
-My portfolio page.
+This is my public portfolio for Telling Stories with Data.
 
 # About Me
 My name is Ahana, and my pronouns are she/her. I'm a second year Public Policy and Management Master's student at Carnegie Mellon University. I worked in the non-profit performing arts space for about four years prior to joining my master's program. My experience is predominantly in marketing, development, and board management. 
