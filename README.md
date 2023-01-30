@@ -12,7 +12,8 @@ I worked in marketing for a non-profit organization for a few years, and worked 
 I also want to be able to build my data visualization vocabulary for the future. I may not necessarily be the person who creates the graphics on whatever team I work on in the future, but I may be requesting that the graphic designer on the team create an image that can enhance our work and results. I would like to learn the language of the subject so that I can be clear and explicit with any directives in the future. 
 
 # Portfolio
-## Data Visualization 1
+## Data Visualization 1: Visualizing Government Debt
+<iframe src="https://data.oecd.org/chart/6Y2j" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Y2j" target="_blank">OECD Chart: General government debt, Total, % of GDP, 2020</a></iframe>
 ## Critique by Design
 ## Final Project Pt 1
 ## Final Project Pt 2
