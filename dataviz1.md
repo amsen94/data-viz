@@ -4,3 +4,6 @@
 
 ### Debt-to-GDP Trends, 1995-2021
 <div class="flourish-embed flourish-chart" data-src="visualisation/12593229"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Comparison of North American General Government Debt, 1995-2021
+<div class="flourish-embed flourish-chart" data-src="visualisation/12598141"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
