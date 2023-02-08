@@ -45,7 +45,8 @@ Similar to the feedback I received from my friends, my peers were also puzzled b
 ## Sketching a Solution
 ### Gap between Percent Changes in Labor Productivity and Real Compensation, Annual Averages, 2007-2021
 This chart depicts the top and bottom two US states with the largest gaps and smallest gaps, respectively.
-(<div class="flourish-embed flourish-chart" data-src="visualisation/12681496"><script src="https://public.flourish.studio/resources/embed.js"></script></div>)
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12681496"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### My takeaways from the feedback:
 It was very eye-opening to get various feedback from friends and peers. I wanted to get feedback from a mixture of people from different areas of knowledge of this material. Since the source story was meant to be for the "average" person, it became quite clear that the visualizations, both the original and my wireframe, were not as comprehensible as I originally thought. Those who did have more background in this subject matter still found the overall story difficult to comprehend. As I was getting the feedback, I started realizing how integral context is, and I wondered if I seemingly digested the material more simply because I had read more about the background and looked at the data, versus my reviewers who needed more context. To what extent the concept of the difference between the percent change of labor productivity and percent change of real wages can be communicated to a person unfamiliar with the basic idea of difference-in-difference is debatable. 
