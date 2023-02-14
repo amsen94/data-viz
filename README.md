@@ -14,6 +14,6 @@ I also want to be able to build my data visualization vocabulary for the future.
 # Portfolio
 ## [Data Visualization 1: Visualizing Government Debt](https://amsen94.github.io/data-viz/dataviz1.html)
 ## [Critique by Design](https://amsen94.github.io/data-viz/critique_by_design.html)
-## Final Project Pt 1
+## [Final Project Pt 1](https://amsen94.github.io/data-viz/project_pt1.html)
 ## Final Project Pt 2
 ## Final Project Pt 3
