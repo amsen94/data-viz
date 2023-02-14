@@ -6,7 +6,7 @@ Polycystic Ovary Syndrome (PCOS) is an illness where the ovaries in a female rep
 
 In multiple studies, even young, healthy South Asian subjects are shown to have a higher propensity toward insulin resistance, and a higher risk for Type 2 Diabetes, up to four times more than any other ethnic group. Worldwide, 65-70% of those diagnosed with PCOS are affected by insulin resistance, though it is one of the least discussed side effects of PCOS. It is unknown whether PCOS causes insulin resistance or vice versa. The intersection of PCOS and insulin resistance is being studied more than before, but proper messaging for insulin resistance testing has been lacking, especially for those diagnosed with PCOS. For this reason, it’s important to call for further research in this field, and impress upon South Asian women the need for a proper diagnosis to help prevent further associated illnesses.
 
-### Outline:
+### OUTLINE:
 #### Set up:
 While PCOS is slowly gaining more recognition, PCOS has had a history of being dismissed or mistreated in the medical community. Many of the physical attributes of PCOS, including acne, hair loss, hirsutism, bloating, and weight gain, are also misunderstood, and often misattributed as “laziness” and “poor hygiene,” especially in the South Asian community. In order to combat this stereotype, I want to convey through data, statistics, and recent literature the startling number of women and menstruating people who are silently suffering through an illness that may lead to further and more severe medical conditions, especially Type 2 Diabetes. The long-term hope is that the medical community also takes this illness and its side effects more seriously, in order to ensure a greater variety of prescriptions for PCOS that can address as many diagnosed people as possible. 
 
@@ -23,10 +23,10 @@ I chose to make a bar graph to depict the number of diagnosed and reported cases
 
 I chose to make a line graph using the data from the NIH to show an unbiased perspective of a cross-comparison of reported symptoms from South Asians compared to Caucasians. Here we can see that there are significant differences between South Asian and Caucasian women predominantly when it comes to weight and menstrual problems. 
 
-### Data: 
+### DATA: 
 Most of my PCOS-related data will be from data reported by the Flo app, a health app that allows menstruating people to track their cycles as reported in the journal Reproductive Biology and Endocrinology in its article “Characterization of polycystic ovary syndrome among Flo app users around the world.” The app took data from Flo users in 142 countries with at least 100 respondents in total. The majority of users were from the US, followed by the UK, India, the Philippines, and Australia. The limitation of this data is that some of the self-reported data have not been diagnosed by a physician. 
 
 In an effort to report unbiased data, I also am using data reported in Health Qual Life Outcomes’ article “Do South Asian women with PCOS have poorer health-related quality of life than Caucasian women with PCOS? A comparative cross-sectional study” published through the National Institutes of Health. The aim of this particular study was to compare health outcomes on the basis of diagnosed PCOS in South Asian and Caucasian women. The data actually doesn’t match with other reports I’ve found from news articles reporting the prevalence of PCOS in South Asian women compared to Caucasian women. 
 
-Method and Medium:
+### METHOD AND MEDIUM:
 I will be using Flourish and Tableau mainly for my visualizations. I want to utilize their tools to make my story as visually appealing and clear as possible. I will be using Shorthand to present my overall findings. I want to be able to display my visualizations, and the associated data in as simple a way as possible, with smooth transitions. I believe Shorthand will help me achieve my narrative goals as seamlessly as possible. 
