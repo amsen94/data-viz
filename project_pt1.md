@@ -16,7 +16,7 @@ I want to highlight this data, in particular that of the South Asian community, 
 #### Resolution: 
 While I have not collected all my possible data, I want to be able to relay the reported statistics and figures in a comprehensible manner to again highlight how more research needs to be conducted in this area. My overall goal is to provide as much data as possible in a clear, visualization that will motivate more South Asian women and menstruating people to check for a PCOS diagnosis. 
 
-#### Sketches:
+### SKETCHES:
 <div class="flourish-embed flourish-chart" data-src="visualisation/12741947"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 I made a stacked column chart to depict the most reported symptoms of PCOS. Oftentimes in media, PCOS is only discussed through the lens of fertility, which is certainly an important factor for many, but not the only symptom. Other important symptoms include irregular cycles, hyperpigmentation, bloating, and hirsutism. 
 
