@@ -20,7 +20,7 @@ While I have not collected all my possible data, I want to be able to relay the 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12741947"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 I made a stacked column chart to depict the most reported symptoms of PCOS. Oftentimes in media, PCOS is only discussed through the lens of fertility, which is certainly an important factor for many, but not the only symptom. Other important symptoms include irregular cycles, hyperpigmentation, bloating, and hirsutism. 
 
-![Bar grapgh](Self-reported visualization.jpg)
+![Bar grapgh](SSelf-reported visualization pt 2.jpg)
 I chose to make a bar graph to depict the number of diagnosed and reported cases of PCOS in various countries, including India, the UK, and the US. I believe that this graph depicts the proportional imbalance of South Asian women and menstruating people who are diagnosed with PCOS in comparison to those diagnosed in other countries. However, I recognize that there are limitations to this data, as is discussed below in the Data portion of this page. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12742006"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
