@@ -17,10 +17,12 @@ I want to highlight this data, in particular that of the South Asian community, 
 While I have not collected all my possible data, I want to be able to relay the reported statistics and figures in a comprehensible manner to again highlight how more research needs to be conducted in this area. My overall goal is to provide as much data as possible in a clear, visualization that will motivate more South Asian women and menstruating people to check for a PCOS diagnosis. 
 
 #### Sketches:
-I made a bar graph to depict the most reported symptoms of PCOS. Oftentimes in media, PCOS is only discussed through the lens of fertility, which is certainly an important factor for many, but not the only symptom. Other important symptoms include irregular cycles, hyperpigmentation, bloating, and hirsutism. 
+<div class="flourish-embed flourish-chart" data-src="visualisation/12741947"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+I made a stacked column chart to depict the most reported symptoms of PCOS. Oftentimes in media, PCOS is only discussed through the lens of fertility, which is certainly an important factor for many, but not the only symptom. Other important symptoms include irregular cycles, hyperpigmentation, bloating, and hirsutism. 
 
 I chose to make a bar graph to depict the number of diagnosed and reported cases of PCOS in various countries, including India, the UK, and the US. I believe that this graph depicts the proportional imbalance of South Asian women and menstruating people who are diagnosed with PCOS in comparison to those diagnosed in other countries. However, I recognize that there are limitations to this data, as is discussed below in the Data portion of this page. 
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/12742006"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 I chose to make a line graph using the data from the NIH to show an unbiased perspective of a cross-comparison of reported symptoms from South Asians compared to Caucasians. Here we can see that there are significant differences between South Asian and Caucasian women predominantly when it comes to weight and menstrual problems. 
 
 ### DATA: 
