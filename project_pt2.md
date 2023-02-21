@@ -4,7 +4,11 @@ I decided to make the wireframe outline in Shorthand so I could have a better un
 
 *Women+ is to indicate that this condition affects menstruating women and menstruating people who do not identify with the gender binary. 
 
-Access my Shorthand preview HERE.
+Access my Shorthand preview [HERE](https://preview.shorthand.com/9EQg3QJclULxpkUR).
+
+Access Part I of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt1.html).
+
+Access my Portfolio [HERE](https://amsen94.github.io/data-viz/).
 
 # User Research
 
