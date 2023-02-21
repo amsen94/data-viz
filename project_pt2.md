@@ -28,7 +28,8 @@ I decided to reach out to people I know who have either been diagnosed with PCOS
 
 
 # Interview Findings
-| Questions               | Interview 1: Female, 24, confirmed PCOS Diagnosis  | Interview 2: Female, 26, confirmed PCOS Diagnosis | Interview 3: Female, 29, no PCOS Diagnosis, but aware of the illness |
+
+| Questions               | Interview 1: Female, early 20s, confirmed PCOS Diagnosis  | Interview 2: Female, mid 20s, confirmed PCOS Diagnosis | Interview 3: Female, late 20s, no PCOS Diagnosis, but aware of the illness |
 |-------------------------|--------------------------------|-------------|-------------|
 |1. Do you know what PCOS is, and if so, what is your understanding of the implications of PCOS (there is no need to disclose personal medical details unless you feel comfortable doing so).|I have PCOS, so I had an understanding of the diagnosis even before viewing the project.|I do know what PCOS is, but only learned what it was after receiving a PCOS diagnosis. My understanding is that it will affect my fertility and I am at increased risk of needing to undergo fertility treatments when I decide I want to conceive. My understanding is also that I should maintain an awareness of my diet and exercise regimen to avoid insulin resistance, but losing weight with the condition is difficult. I am also aware that PCOS and its associated fluctuations in hormones affect my energy levels, mood swings, hunger levels, and menstrual cycle.             |             |
 |2. In this storyboard, what did you like or find effective about this wireframe story? Why?|I really liked the interactive breakdown of symptoms by country and the breakdown of diagnoses by race. The visuals conveyed the information really well.|I like the statistics and graphics that show PCOS's prevalence, which effectively help raise awareness of the issue.|             |
@@ -38,5 +39,11 @@ I decided to reach out to people I know who have either been diagnosed with PCOS
 |6. Is there anything that you’ve learned from the story or found surprising? If so, what?|I really liked seeing the breakdown of PCOS symptoms by country. I had never seen that data before and found the variations surprising!|I didn't know about the countries with the most reported cases!|             |
 |7.	Any further suggestions?|I think that the insulin resistance section can be moved up to follow the symptoms section and precede the race section to improve the flow. If the data has this information, it would also be helpful to include insulin resistance and ovarian cysts in the visualization of symptoms by country to see where they rank relative to other symptoms. If possible, it would also be nice to change the colors of a few of the graphs/visuals to match the dominant color scheme of reds, pinks, greys, and blacks. For example, the graphs depicting race and insulin resistance could match the colors of the visual breakdown of symptoms by country.|I think I said it all above.|             |
 
+# Feedback from In-Class Peer Review
+
+During the in-class review, my peers gave great feedback regarding the visualizations, and how I could further augment them to help tell my story. In particular, they suggested that I make the color scheme more uniform, and highlight salient points that are aligned with my particular narrative. 
 
 # Identified Changes for Part III
+
+Given the feedback I got from my reviewers as well as my peers, I will be implementing a lot of their feedback in order to ensure that I’m telling a well-flowing and effective narrative about PCOS. In particular, I will focus on making sure my color scheme is consistent all throughout the presentation to create a more cohesive look. I also have already started resorting some of the sections to ensure that the storyline makes more sense. I will now be focusing on introducing the subject, why it’s an important diagnosis and medical condition to understand, a breakdown of associated symptoms, further medical implications, especially regarding insulin resistance, a breakdown of the racial component and why that’s necessary to highlight in terms of medical research, the prevalence of this diagnosis but lack of funding from public health advocates and the government, which will all culminate in my specific calls to action. 
+
