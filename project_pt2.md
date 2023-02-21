@@ -4,6 +4,8 @@ I decided to make the wireframe outline in Shorthand so I could have a better un
 
 *Women+ is to indicate that this condition affects menstruating women and menstruating people who do not identify with the gender binary. 
 
+Access my Shorthand preview HERE.
+
 # User Research
 
 ## Target Audience
@@ -16,9 +18,13 @@ I decided to reach out to people I know who have either been diagnosed with PCOS
 
 | Goal | Questions to Ask |
 |------|------------------|
-|  1.     | 1.	Do you know what PCOS is, and if so, what is your understanding of the implications of PCOS (there is no need to disclose personal medical details).                 |
-|      |                  |
-|      |                  |
+|I want to understand how their understanding or personal experience with PCOS may influence how they view this topic.| 1. Do you know what PCOS is, and if so, what is your understanding of the implications of PCOS (there is no need to disclose personal medical details unless you feel comfortable doing so).|
+|Considering their background, I trust these reviewers to give their honest opinion about how effective they find the narrative, or what is true to their experience. |2. In this storyboard, what did you like or find effective about this wireframe story? Why?|
+|Similarly to the previous question, if I'm narrating a story that represents a part of my reviewers, I want to make sure the story and facts are correct and representative of them.|3. Is there anything you didn’t like. What and why?|
+|For narrative's sake, I want to make sure that the storyline and the supporting evidence flow well and makes sense to any audience.|4.	Is there anything that was confusing about the story? What do you think could be further explained?|
+|Similarly to the previous question, I want to make sure that the visuals are aligned with the storyline.|5. In terms of the visuals, what could be changed to help your understanding of the story?|
+|If there's anything that I've added to the story that is surprising or new for those aware of the disease, I want to know so that I can keep these details in the story, as long as they still seem relevant.|6. Is there anything that you’ve learned from the story or found surprising? If so, what?|
+|This is the reviewers' opportunity to include any further suggestions they think may help the story if they didn't include it earlier|7.	Any further suggestions?|
 
 
 # Interview Findings
