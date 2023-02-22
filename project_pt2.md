@@ -1,21 +1,17 @@
 # Wireframes
 
+Access my Shorthand preview [HERE](https://preview.shorthand.com/9EQg3QJclULxpkUR).
+
 I decided to make the wireframe outline in Shorthand so I could have a better understanding of how my project is shaping up given the story that I’m trying to present as well as to have more familiarity with the tool. I have used some of the visualizations I presented in Part 1, but I’ve updated them more to flow better with the story, as well as to better represent the data I’ve collected. I realized after Part I that the scope of my story was a little too narrow, so rather than focusing on the effects of PCOS on the South Asian Diaspora, I am now focusing on PCOS in the context of the US, raising awareness of the symptoms of PCOS on women+*, and common misunderstandings of the illness that have led to little research in the medical field as well as underfunding from non-profit and government entities. 
 
 *Women+ is to indicate that this condition affects menstruating women and menstruating people who do not identify with the gender binary. 
-
-Access my Shorthand preview [HERE](https://preview.shorthand.com/9EQg3QJclULxpkUR).
-
-Access Part I of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt1.html).
-
-Access my Portfolio [HERE](https://amsen94.github.io/data-viz/).
 
 # User Research
 
 ## Target Audience
 The intended audience for this storyboard is predominantly those of menstruating age who may be dealing with many of the identified symptoms but aren’t currently diagnosed or are diagnosed but are unaware of the potential further medical implications beyond infertility. Many of us who are diagnosed are simply told that infertility is the biggest concern when it comes to a PCOS diagnosis, but aren’t necessarily aware that there’s a propensity toward insulin resistance. 
 
-I decided to reach out to people I know who have either been diagnosed with PCOS or have heard of PCOS to get the range of understanding regarding the visual story. For those who have been diagnosed with PCOS, it was important to me to get their feedback regarding both the authenticity of the story told as well as anything that they might not necessarily know about their diagnosis. For those who have heard of PCOS but either don’t have a diagnosis or are unfamiliar with the illness beyond the basics, I wanted to get their interpretations of the visualizations, and whether they found anything confusing or surprising? 
+I decided to reach out to people I know who have either been diagnosed with PCOS or have heard of PCOS to get the range of understanding regarding the visual story. For those who have been diagnosed with PCOS, it was important to me to get their feedback regarding both the authenticity of the story told as well as anything that they might not necessarily know about their diagnosis. For those who have heard of PCOS but either don’t have a diagnosis or are unfamiliar with the illness beyond the basics, I wanted to get their interpretations of the visualizations, and whether they found anything confusing or surprising. 
 
 
 # Interview Script
@@ -50,4 +46,10 @@ During the in-class review, my peers gave great feedback regarding the visualiza
 # Identified Changes for Part III
 
 Given the feedback I got from my reviewers as well as my peers, I will be implementing a lot of their feedback in order to ensure that I’m telling a well-flowing, authentic, and effective narrative about PCOS. In particular, I will focus on making sure my color scheme is consistent all throughout the presentation to create a more cohesive look. I also have already started resorting some of the sections to ensure that the storyline makes more sense. I will now be focusing on introducing the subject, why it’s an important diagnosis and medical condition to understand, a breakdown of associated symptoms, further medical implications, especially regarding insulin resistance, a breakdown of the racial component and why that’s necessary to highlight in terms of medical research, the prevalence of this diagnosis but lack of funding from public health advocates and the government, which will all culminate in my specific calls to action. 
+
+I have already started implementing the feedback, including thematic cohesion, and more explicit language regarding this misunderstandings of the condition. I will be enhancing the underfunding component by comparing comparable conditions, and funding in comparison to current PCOS funding. 
+
+Access Part I of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt1.html).
+
+Access my Portfolio [HERE](https://amsen94.github.io/data-viz/).
 
