@@ -1,7 +1,9 @@
 
 # Portfolio
 Access my Portfolio [HERE](https://amsen94.github.io/data-viz/).
+
 Access Part 1 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt1.html).
+
 Access Part 2 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt2.html).
 
 # The Final Data Story
@@ -31,5 +33,7 @@ All references are included at the bottom of my [Shorthand Story](https://data-v
 This topic has become very important to me, and though I don’t have a public health or medical background, I believe that every person deserves to have as much information and options as possible for conditions that affect their everyday health. PCOS is one of many conditions that disproportionately affect women+ but do not have the same level of funding or research as conditions that primarily affect men or the larger population. As I read through the literature and came across convoluted medical jargon, I realized that in order for me to provide awareness of this condition, I had to connect with a general audience. While it was important to keep some of the medical language, I did my best to explain why PCOS is so detrimental in as plain language as possible. I believe this was still effective in both explaining the severity of the condition, as well as staying relevant in the audiences’ minds after the presentation. 
 
 Access my Portfolio [HERE](https://amsen94.github.io/data-viz/).
+
 Access Part 1 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt1.html).
+
 Access Part 2 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt2.html).
