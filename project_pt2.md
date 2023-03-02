@@ -1,3 +1,8 @@
+# Final Project - Part II
+Access my Portfolio [HERE](https://amsen94.github.io/data-viz/).
+
+Go back to Part 1 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt1.html).
+
 # Wireframes
 
 Access my Shorthand preview [HERE](https://preview.shorthand.com/9EQg3QJclULxpkUR).
@@ -49,7 +54,9 @@ Given the feedback I got from my reviewers as well as my peers, I will be implem
 
 I have already started implementing the feedback, including thematic cohesion, and more explicit language regarding this misunderstandings of the condition. I will be enhancing the underfunding component by comparing comparable conditions, and funding in comparison to current PCOS funding. 
 
-Access Part I of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt1.html).
+Continue to Part III of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt3.html).
+
+Go back to Part I of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt1.html).
 
 Access my Portfolio [HERE](https://amsen94.github.io/data-viz/).
 
