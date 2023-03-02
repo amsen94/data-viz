@@ -33,3 +33,9 @@ In an effort to report unbiased data, I also am using data reported in Table 3 o
 
 ### METHOD AND MEDIUM:
 I will be using Flourish and Tableau mainly for my visualizations. I want to utilize their tools to make my story as visually appealing and clear as possible. I will be using Shorthand to present my overall findings. I want to be able to display my visualizations, and the associated data in as simple a way as possible, with smooth transitions. I believe Shorthand will help me achieve my narrative goals as seamlessly as possible. 
+
+Access my Portfolio [HERE](https://amsen94.github.io/data-viz/).
+
+Continue to Part 2 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt2.html).
+
+Continue to Part 3 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt3.html).
