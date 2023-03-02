@@ -1,10 +1,10 @@
 
-# Portfolio
+# Final Project: Part III
 Access my Portfolio [HERE](https://amsen94.github.io/data-viz/).
 
-Access Part 1 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt1.html).
+Go back to Part 1 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt1.html).
 
-Access Part 2 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt2.html).
+Go back to Part 2 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt2.html).
 
 # The Final Data Story
 Access my Shorthand Story [HERE](https://data-visualization-shorthand.shorthandstories.com/b1cc5c39-125f-496e-9594-89c6485b4340/index.html).
@@ -34,6 +34,6 @@ This topic has become very important to me, and though I don’t have a public h
 
 Access my Portfolio [HERE](https://amsen94.github.io/data-viz/).
 
-Access Part 1 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt1.html).
+Go back to Part 1 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt1.html).
 
-Access Part 2 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt2.html).
+Go back to Part 2 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt2.html).
