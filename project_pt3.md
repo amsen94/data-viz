@@ -1,5 +1,5 @@
 
-# Final Project: Part III
+# Final Project: Part 3
 Access my Portfolio [HERE](https://amsen94.github.io/data-viz/).
 
 Go back to Part 1 of my Final Project [HERE](https://amsen94.github.io/data-viz/project_pt1.html).
